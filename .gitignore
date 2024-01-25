@@ -1,0 +1,12 @@
+# Personal Config
+/data
+*.Rmd
+files/
+
+# Python Junk
+.ipynb_checkpoints/
+
+# Visual Studio Code Junk
+.vscode/
+.idea/
+*.h5
